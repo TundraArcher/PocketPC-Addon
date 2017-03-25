@@ -4,6 +4,6 @@
 
 void PocketPC::initItems() {
 	
-	Item::mItems[401] = new Firework();
+	//Item::mItems[401] = new Firework(); Temporary removed
 	
 }

@@ -14,8 +14,9 @@ void PocketPC::initCreativeItems() {
 	
 	Item::addCreativeItem(213, 0);
 	
-	Item::addCreativeItem(401, 0);
-	Item::addCreativeItem(401, 1);
-	Item::addCreativeItem(401, 2);
+	//Temporary removed
+	//Item::addCreativeItem(401, 0);
+	//Item::addCreativeItem(401, 1);
+	//Item::addCreativeItem(401, 2);
 	
 }
