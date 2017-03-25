@@ -3,7 +3,7 @@
 enum class CreativeItemCategory : int
 {
 	BLOCKS = 1,
-	DECORATIONS,
+	DECORATION,
 	TOOLS,
 	MISCELLANEOUS
 };
